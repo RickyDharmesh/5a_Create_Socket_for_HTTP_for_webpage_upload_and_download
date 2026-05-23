@@ -84,7 +84,14 @@ s.close()
 
 ## OUTPUT
 
-<img width="1642" height="365" alt="Screenshot 2026-05-23 201019" src="https://github.com/user-attachments/assets/95b331d4-719c-4388-beb6-8f58b9fb908a" />
+UPLOAD:
+<img width="1652" height="367" alt="Screenshot 2026-05-23 201638" src="https://github.com/user-attachments/assets/8ca90b2f-fe1f-4cae-bfe2-414dd276798c" />
+
+
+DOWNLOAD:
+
+<img width="1645" height="368" alt="Screenshot 2026-05-23 201652" src="https://github.com/user-attachments/assets/57cc3214-8a5c-4849-95a7-da23621a5fb6" />
+
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
